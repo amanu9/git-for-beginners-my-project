@@ -1,3 +1,3 @@
 welcome to the project
-Author:Amanuel
+Author:aman
 twitter:aman

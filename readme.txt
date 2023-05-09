@@ -1,3 +1,7 @@
 welcome to the project
-Author:Amanuel beyena
+
+Author:Amanuel amanu beyena
+
+Author:aman
+
 twitter:aman
